@@ -1,10 +1,9 @@
+ /* googlefonts import */
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Assistant&family=Bacasime+Antique&family=Cormorant+Garamond:wght@300&family=Cormorant:ital,wght@1,600&family=Crimson+Text&family=Dancing+Script:wght@400;500&family=Dosis:wght@300&family=Fasthand&family=Lora:ital@1&family=Playfair+Display&family=Prata&family=Satisfy&display=swap');
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+ font-family: 'Lora', serif;
 }
 
 code {
